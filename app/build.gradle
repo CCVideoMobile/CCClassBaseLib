@@ -46,6 +46,6 @@ dependencies {
     implementation 'com.android.support:support-compat:28.0.0'
 
 //    implementation project(':CommonLib')
-
-    implementation 'com.github.CCVideo:CCCommonLib:1.1.10'
+l
+    implementation 'com.github.CCVideoMobile:CCCommonLib:1.1.10'
 }
